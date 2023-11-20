@@ -1,0 +1,114 @@
+{
+  "cities": [
+    {
+      "name": "Jakarta",
+      "conditions": "clear",
+      "humidity": 75,
+      "temperature": 30,
+      "wind": {
+        "heading": "N",
+        "speed": 10
+      },
+      "icon": "clear.jpg"
+    },
+    {
+      "name": "Bandung",
+      "conditions": "rain",
+      "humidity": 80,
+      "temperature": 25,
+      "wind": {
+        "heading": "NE",
+        "speed": 8
+      },
+      "icon": "rain.jpg"
+    },
+    {
+      "name": "Surabaya",
+      "conditions": "clear",
+      "humidity": 70,
+      "temperature": 32,
+      "wind": {
+        "heading": "E",
+        "speed": 12
+      },
+      "icon": "clear.jpg"
+    },
+    {
+      "name": "Medan",
+      "conditions": "snow",
+      "humidity": 85,
+      "temperature": 20,
+      "wind": {
+        "heading": "NW",
+        "speed": 5
+      },
+      "icon": "snow.jpg"
+    },
+    {
+      "name": "Yogyakarta",
+      "conditions": "rain",
+      "humidity": 78,
+      "temperature": 28,
+      "wind": {
+        "heading": "W",
+        "speed": 7
+      },
+      "icon": "rain.jpg"
+    },
+    {
+      "name": "Makassar",
+      "conditions": "clear",
+      "humidity": 72,
+      "temperature": 31,
+      "wind": {
+        "heading": "SW",
+        "speed": 9
+      },
+      "icon": "clear.jpg"
+    },
+    {
+      "name": "Semarang",
+      "conditions": "rain",
+      "humidity": 82,
+      "temperature": 26,
+      "wind": {
+        "heading": "S",
+        "speed": 11
+      },
+      "icon": "rain.jpg"
+    },
+    {
+      "name": "Palembang",
+      "conditions": "snow",
+      "humidity": 77,
+      "temperature": 22,
+      "wind": {
+        "heading": "SE",
+        "speed": 6
+      },
+      "icon": "snow.jpg"
+    },
+    {
+      "name": "Balikpapan",
+      "conditions": "clear",
+      "humidity": 68,
+      "temperature": 29,
+      "wind": {
+        "heading": "N",
+        "speed": 14
+      },
+      "icon": "clear.jpg"
+    },
+    {
+      "name": "Denpasar",
+      "conditions": "rain",
+      "humidity": 79,
+      "temperature": 27,
+      "wind": {
+        "heading": "NE",
+        "speed": 10
+      },
+      "icon": "rain.jpg"
+    }
+  ]
+}
