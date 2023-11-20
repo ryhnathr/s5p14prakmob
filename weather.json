@@ -9,7 +9,7 @@
         "heading": "N",
         "speed": 10
       },
-      "icon": "clear.jpg"
+      "icon": "clear.png"
     },
     {
       "name": "Bandung",
@@ -20,7 +20,7 @@
         "heading": "NE",
         "speed": 8
       },
-      "icon": "rain.jpg"
+      "icon": "rain.png"
     },
     {
       "name": "Surabaya",
@@ -31,7 +31,7 @@
         "heading": "E",
         "speed": 12
       },
-      "icon": "clear.jpg"
+      "icon": "clear.png"
     },
     {
       "name": "Medan",
@@ -42,7 +42,7 @@
         "heading": "NW",
         "speed": 5
       },
-      "icon": "snow.jpg"
+      "icon": "snow.png"
     },
     {
       "name": "Yogyakarta",
@@ -53,7 +53,7 @@
         "heading": "W",
         "speed": 7
       },
-      "icon": "rain.jpg"
+      "icon": "rain.png"
     },
     {
       "name": "Makassar",
@@ -64,7 +64,7 @@
         "heading": "SW",
         "speed": 9
       },
-      "icon": "clear.jpg"
+      "icon": "clear.png"
     },
     {
       "name": "Semarang",
@@ -75,7 +75,7 @@
         "heading": "S",
         "speed": 11
       },
-      "icon": "rain.jpg"
+      "icon": "rain.png"
     },
     {
       "name": "Palembang",
@@ -86,7 +86,7 @@
         "heading": "SE",
         "speed": 6
       },
-      "icon": "snow.jpg"
+      "icon": "snow.png"
     },
     {
       "name": "Balikpapan",
@@ -97,7 +97,7 @@
         "heading": "N",
         "speed": 14
       },
-      "icon": "clear.jpg"
+      "icon": "clear.png"
     },
     {
       "name": "Denpasar",
@@ -108,7 +108,7 @@
         "heading": "NE",
         "speed": 10
       },
-      "icon": "rain.jpg"
+      "icon": "rain.png"
     }
   ]
 }
