@@ -1,0 +1,99 @@
+{
+  "s_series_smartphones": [
+    {
+      "model": "Samsung Galaxy S22 Ultra",
+      "release_date": "2023-03-01",
+      "display": {
+        "type": "Dynamic AMOLED",
+        "size": "6.8 inches",
+        "resolution": "1440 x 3200 pixels"
+      },
+      "camera": {
+        "main": "108 MP wide, 48 MP periscope telephoto, 12 MP ultrawide, 2 MP depth",
+        "selfie": "40 MP wide"
+      },
+      "processor": "Exynos 2200 / Snapdragon 8cx Gen 2",
+      "ram": "12 GB",
+      "storage": "256 GB / 512 GB",
+      "battery": "5000 mAh",
+      "operating_system": "Android 13 with One UI 7",
+      "features": ["S Pen support", "5G connectivity", "Water and dust resistance (IP68)"]
+    },
+    {
+      "model": "Samsung Galaxy S22+",
+      "release_date": "2023-03-01",
+      "display": {
+        "type": "Dynamic AMOLED",
+        "size": "6.6 inches",
+        "resolution": "1080 x 2400 pixels"
+      },
+      "camera": {
+        "main": "50 MP wide, 12 MP periscope telephoto, 12 MP ultrawide, 5 MP depth",
+        "selfie": "32 MP wide"
+      },
+      "processor": "Exynos 2200 / Snapdragon 8cx Gen 2",
+      "ram": "8 GB",
+      "storage": "128 GB / 256 GB",
+      "battery": "4500 mAh",
+      "operating_system": "Android 13 with One UI 7",
+      "features": ["5G connectivity", "Water and dust resistance (IP68)"]
+    },
+    {
+      "model": "Samsung Galaxy S22",
+      "release_date": "2023-03-01",
+      "display": {
+        "type": "Dynamic AMOLED",
+        "size": "6.2 inches",
+        "resolution": "1080 x 2340 pixels"
+      },
+      "camera": {
+        "main": "64 MP wide, 12 MP ultrawide, 5 MP depth",
+        "selfie": "32 MP wide"
+      },
+      "processor": "Exynos 2200 / Snapdragon 8cx Gen 2",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB",
+      "battery": "4000 mAh",
+      "operating_system": "Android 13 with One UI 7",
+      "features": ["5G connectivity", "Water and dust resistance (IP68)"]
+    },
+    {
+      "model": "Samsung Galaxy S21 FE",
+      "release_date": "2022-11-15",
+      "display": {
+        "type": "Super AMOLED",
+        "size": "6.4 inches",
+        "resolution": "1080 x 2400 pixels"
+      },
+      "camera": {
+        "main": "32 MP wide, 8 MP ultrawide, 5 MP depth",
+        "selfie": "32 MP wide"
+      },
+      "processor": "Exynos 2100 / Snapdragon 888",
+      "ram": "6 GB",
+      "storage": "128 GB / 256 GB",
+      "battery": "4500 mAh",
+      "operating_system": "Android 12 with One UI 4.1",
+      "features": ["5G connectivity", "Water and dust resistance (IP68)"]
+    },
+    {
+      "model": "Samsung Galaxy S21 Ultra",
+      "release_date": "2021-01-29",
+      "display": {
+        "type": "Dynamic AMOLED",
+        "size": "6.8 inches",
+        "resolution": "1440 x 3200 pixels"
+      },
+      "camera": {
+        "main": "108 MP wide, 12 MP periscope telephoto, 10 MP periscope telephoto, 10 MP ultrawide, 2 MP depth",
+        "selfie": "40 MP wide"
+      },
+      "processor": "Exynos 2100 / Snapdragon 888",
+      "ram": "12 GB",
+      "storage": "128 GB / 256 GB / 512 GB",
+      "battery": "5000 mAh",
+      "operating_system": "Android 11 with One UI 3.1",
+      "features": ["S Pen support", "5G connectivity", "Water and dust resistance (IP68)"]
+    }
+  ]
+}
